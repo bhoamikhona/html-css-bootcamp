@@ -23,7 +23,7 @@
 
 ## Sections
 
-- [Section 01](): Introduction
+- [Section 01](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2001): Introduction
 - [Section 02](): HTML Fundamentals
 - [Section 03](): CSS Fundamentals
 - [Section 04](): Layouts: Floats, Flexbox, and CSS Grid Fundamentals
