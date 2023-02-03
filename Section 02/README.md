@@ -102,3 +102,7 @@
   - Not all elements in HTML are semantic.
   - Semantic HTML is used for Search Engine Optimization i.e. Google or any other search engine will be able to better understand the content on your webpage using Semantic HTMl and also, it used for Accessibility purposes.
 - `<button>Click Me</button>`
+
+## Authors
+
+- [@bhoamikhona](https://github.com/bhoamikhona)
