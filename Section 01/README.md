@@ -21,6 +21,10 @@
           - 'Auto Save' set to 'onFocusChange'
           - 'Tab Size' set to '2'
       - One Monokai Theme
+      - Image Preview
+      - Color Highlight
+      - Auto Rename Tag
+      - Live Server
 - Creating First Web Page
   - A webpage is basically just a HTML file.
 
