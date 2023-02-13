@@ -25,7 +25,7 @@
 
 - [Section 01](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2001): Introduction
 - [Section 02](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2002): HTML Fundamentals
-- [Section 03](): CSS Fundamentals
+- [Section 03](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2003): CSS Fundamentals
 - [Section 04](): Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 - [Section 05](): Web Design Rules and Framework
 - [Section 06](): Components and Layout Patterns

@@ -207,7 +207,7 @@
   - In order to actually position the element that is absolutely positioned, we can use the `top`, `bottom`, `left`, or `right` properties to offset the element from its <ins>relatively</ins> positioned container.
 - [HTML Emoji Entities](https://www.htmlsymbols.xyz/):
   - Heart Symbol: `&#10084`;
-  - Heart Stars: `	&#x1F496;`
+  - Heart Stars: `&#x1F496;`
 
 ## Authors
 
