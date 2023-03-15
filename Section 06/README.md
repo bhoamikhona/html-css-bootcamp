@@ -63,6 +63,16 @@
 - `translate()` - The translate function repositions an element in the horizontal and/or vertical directions.
 - `border-collapse: collapse` - The border-collapse property sets whether table border should collapse into a single border or be separated as in standard HTML.
 - NOTE: When it comes to table, only sizing the first row (heading row) in terms of width will suffice since the rest of the rows will follow according to it.
+- `background` - The background property is a shorthand property for:
+  - `background-color`
+  - `background-image`
+  - `background-position`
+  - `background-size`
+  - `background-repeat`
+  - `background-origin`
+  - `background-clip`
+  - `background-attachment`
+  - It does not matter if one of the values above are missing, e.g. `background: #ff0000 url("smiley.gif");` is allowed.
 
 ### HTML
 
