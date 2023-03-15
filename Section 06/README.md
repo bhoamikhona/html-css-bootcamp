@@ -61,6 +61,8 @@
 - `transform: scale(1.5)` - The transform property applies a 2D or 3D tranformation to an element. This property allows you to rotate, scale, move, skew, etc., elements.
 - `scale()` - The scale function defines a transformation that resizes an element on the 2D plane. Since the amount of scaling is defined by a vector, it can resize the horizontal and vertical dimensions at different scales.
 - `translate()` - The translate function repositions an element in the horizontal and/or vertical directions.
+- `border-collapse: collapse` - The border-collapse property sets whether table border should collapse into a single border or be separated as in standard HTML.
+- NOTE: When it comes to table, only sizing the first row (heading row) in terms of width will suffice since the rest of the rows will follow according to it.
 
 ### HTML
 
