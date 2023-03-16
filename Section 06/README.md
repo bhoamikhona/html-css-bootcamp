@@ -38,8 +38,11 @@
   - Modal Windows
 - Common Section Components
   - Navigation
+    - Sub-Menus & Complex Sub-Menus
+    - Secondary Navigation
   - Hero Section
   - Footer
+    - Site Map
   - Call-to-Action Section
   - Feature Row
 - Common Layout Patterns
@@ -64,6 +67,7 @@
 - `border-collapse: collapse` - The border-collapse property sets whether table border should collapse into a single border or be separated as in standard HTML.
 - NOTE: When it comes to table, only sizing the first row (heading row) in terms of width will suffice since the rest of the rows will follow according to it.
 - `background` - The background property is a shorthand property for:
+
   - `background-color`
   - `background-image`
   - `background-position`
@@ -74,10 +78,21 @@
   - `background-attachment`
   - It does not matter if one of the values above are missing, e.g. `background: #ff0000 url("smiley.gif");` is allowed.
 
+- Building and Using Utility Classes
+- CSS Units:
+
+  - `vh` - Viewport Height
+  - `vw` - Viewport Width
+
+- `background-image: url("image/url")` - The background-image property sets one or more background images for an element. By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
+- `background-size: cover` - The background-size property specifies the size of the background images. The value of cover resizes the background image to cover the entire containe, even if it has to stretch the image or cut a little bit off one of the edges.
+- `background-image: linear-gradient(red, yellow, blue)` - The linear-gradient() function sets a linear gradient as the background image.
+
 ### HTML
 
 - `<blockquote>` - The blockquote tag specifies a section that is quoted from another source. Browsers usually indent blockquote elements.
 - `&nbsp;` - Non-breaking space entity which is a space that will not break into a new line. This is handy when breaking the words might be disruptive. Another common use of the non-breaking space is to prevent browsers from truncating spaces in HTML pages.
+- `<header>` - The header element represents a container for introductory content or a set of navigational links. A header element typically contains one or mor headings, logo or icon, and authorship information. You can have several header elements in one HTML document. However, header cannot be placed within footer, address, or another header element.
 
 ## Authors
 
