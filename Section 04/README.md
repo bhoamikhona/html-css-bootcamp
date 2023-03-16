@@ -131,6 +131,11 @@
         - `justify-self: end;`
 - `display: none`
 
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/50435319/225616986-444484ba-902c-4b91-b1bf-57a1f1782ca4.PNG)
+![2](https://user-images.githubusercontent.com/50435319/225616993-8ae6c7a4-063c-43dc-a1f9-debe7a50f9aa.PNG)
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
