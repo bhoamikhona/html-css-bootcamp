@@ -243,6 +243,10 @@
     - bottom-right corner
     - bottom-left corner
 
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/50435319/225616317-25a7e45a-be3d-46a3-933c-623d5c1e8b4a.PNG)
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
