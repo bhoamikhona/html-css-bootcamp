@@ -103,6 +103,11 @@
   - Semantic HTML is used for Search Engine Optimization i.e. Google or any other search engine will be able to better understand the content on your webpage using Semantic HTMl and also, it used for Accessibility purposes.
 - `<button>Click Me</button>`
 
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/50435319/225617905-a99c1710-78c3-4225-9df0-47f5e8889d7a.PNG)
+![2](https://user-images.githubusercontent.com/50435319/225617908-ebaab405-7162-463c-9528-fd74f6bf6df7.PNG)
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
