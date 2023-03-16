@@ -209,6 +209,11 @@
   - Heart Symbol: `&#10084`;
   - Heart Stars: `&#x1F496;`
 
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/50435319/225617356-acf08c9f-c51d-4f72-88d9-413d44ee3ad1.PNG)
+![2](https://user-images.githubusercontent.com/50435319/225617369-3a0f65a6-4505-4502-886a-8af560662972.PNG)
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
