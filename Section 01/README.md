@@ -28,6 +28,10 @@
 - Creating First Web Page
   - A webpage is basically just a HTML file.
 
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/50435319/225618267-158102bc-5643-4fb3-9cc6-4d2e278358cf.PNG)
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
