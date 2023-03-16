@@ -88,11 +88,54 @@
 - `background-size: cover` - The background-size property specifies the size of the background images. The value of cover resizes the background image to cover the entire containe, even if it has to stretch the image or cut a little bit off one of the edges.
 - `background-image: linear-gradient(red, yellow, blue)` - The linear-gradient() function sets a linear gradient as the background image.
 
+- `overflow: scroll` - The overflow property controls what happens to content that is too big to fit into an area.
+  - It specifies whether to clip the content or to add scrollbars when the content of an element is too big to fit in the specified area.
+  - The `overflow` property has the following values:
+    - `visible` - Default. The overflow is not clipped. The content renders outside the element's box.
+    - `hidden` - The overflow is clipped, and the rest of the content will be invisible.
+    - `scroll` - The overflow is clipped, and a scrollbar is added to see the rest of the content.
+    - `auto` - Similar to `scroll` but, it adds scrollbars only when necessary.
+  - NOTE: The `overflow` property only works for block elements with a specified height.
+- NOTE: When using flexbox, the flex items will shrink if `overflow: scroll` is applied. This is because the the flex-items are set to `flex-shrink: 0` by default and so, the scroll bar won't show if they shrink and fit within the container. In order to fix that, simply set `flex-shrink: 0` along with setting `overflow: scroll` and it should work.
+
 ### HTML
 
 - `<blockquote>` - The blockquote tag specifies a section that is quoted from another source. Browsers usually indent blockquote elements.
 - `&nbsp;` - Non-breaking space entity which is a space that will not break into a new line. This is handy when breaking the words might be disruptive. Another common use of the non-breaking space is to prevent browsers from truncating spaces in HTML pages.
 - `<header>` - The header element represents a container for introductory content or a set of navigational links. A header element typically contains one or mor headings, logo or icon, and authorship information. You can have several header elements in one HTML document. However, header cannot be placed within footer, address, or another header element.
+- `<menu>` The menu tag defines a list/menu of commands. It is used to context menus, toolbars, and for listing form controls, and commands.
+
+| `<nav></nav>`                                                                                                                      | `<menu></menu>`                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| The nav tag creates navigation block which provides link for contents either on the same document/page or any other document/page. | The menu tag creates a list or menu of commands which can be utilized by the users.      |
+| The nav tag is specifically for grouping elements in a Website.                                                                    | The menu tag is for web applications to handle/design interactive elements.              |
+| The contents of nav tag are `<a href="#">`, `<ul>`, `<ol>`, and `<li>` etc.                                                        | The contents of menu tag are `<menu>`, `<menuitem>`, `<li>`, `<hr>`, and `<script>` etc. |
+
+## Screenshots
+
+### 01 Accordion
+
+![1](https://user-images.githubusercontent.com/50435319/225615063-1be7de0f-b13f-40fd-ac01-4f12330fd9a2.PNG)
+
+### 02 Carousel
+
+![2](https://user-images.githubusercontent.com/50435319/225615068-e9306118-2ffd-4ec2-b455-2e9101e1a458.PNG)
+
+### 03 Table
+
+![3](https://user-images.githubusercontent.com/50435319/225615071-2158d83f-f579-48bd-a162-8fe73f984017.png)
+
+### 04 Pagination
+
+![4](https://user-images.githubusercontent.com/50435319/225615073-13b545e1-7115-4935-b74b-a70021a07ebd.png)
+
+### 05 Hero Section
+
+![5](https://user-images.githubusercontent.com/50435319/225615075-36e0ae22-29c7-4d13-853a-d4aa0443e582.png)
+
+### 06 App Layout
+
+![6](https://user-images.githubusercontent.com/50435319/225615058-8447360b-e3cc-4d5a-965b-f42669b987dc.PNG)
 
 ## Authors
 
