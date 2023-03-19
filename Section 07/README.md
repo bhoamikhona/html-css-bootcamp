@@ -73,6 +73,7 @@
 ### HTML
 
 - A link is used for going somewhere on the page or goint to other pages while a button element should only be used for actions i.e. if something happens that is not related to navigation.
+- `<figure></figure>` - The figure tag specifies self-contained content like illustrations, diagrams, photos, code listings, etc. While the content of the figure element is related to the main flow, its position is independent of the main flow, and if removed, it should not affect the flow of the document.
 
 ### CSS
 
