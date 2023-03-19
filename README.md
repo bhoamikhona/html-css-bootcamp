@@ -29,7 +29,7 @@
 - [Section 04](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2004): Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 - [Section 05](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2005): Web Design Rules and Framework
 - [Section 06](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2006): Components and Layout Patterns
-- [Section 07](): Omnifood Project (Setup and Desktop Version)
+- [Section 07](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2007): Omnifood Project (Setup and Desktop Version)
 - [Section 08](): Omnifood Project (Responsive Web Design)
 - [Section 09](): Omnifood Project (Effects, Optimizations, and Deployments)
 
