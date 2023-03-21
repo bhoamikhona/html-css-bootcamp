@@ -80,6 +80,11 @@ body {
   column-gap: 6.4rem;
 }
 
+/* If the grid is not the last child of the its parent element then apply the margin-bottom: 9.6rem css rule */
+.grid:not(:last-child) {
+  margin-bottom: 9.6rem;
+}
+
 .grid--2-cols {
   grid-template-columns: repeat(2, 1fr);
 }

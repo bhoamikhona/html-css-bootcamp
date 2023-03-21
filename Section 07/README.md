@@ -103,6 +103,8 @@
 
 - `transparent` keyword - The transparent keyword is used to make a color transparent. This is often used to a make transparent background color for an element. The keyword is equal to rgba(0,0,0,0)
 
+- `:not()` - The `:not()` CSS pseudo class represents elements that do not match a list of selectors. Since it prevents specific items from being selected, it is known as the negation pseudo-class.
+
 ## Secreenshots
 
 ## Authors
