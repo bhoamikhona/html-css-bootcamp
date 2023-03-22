@@ -75,6 +75,24 @@
 - A link is used for going somewhere on the page or goint to other pages while a button element should only be used for actions i.e. if something happens that is not related to navigation.
 - `<figure></figure>` - The figure tag specifies self-contained content like illustrations, diagrams, photos, code listings, etc. While the content of the figure element is related to the main flow, its position is independent of the main flow, and if removed, it should not affect the flow of the document.
 - `<figcaption></figcaption>` - The figcaption tag defines a caption for a `<figure>` element. It can be placed as the first or last child of the `<figure>` element.
+- `role` attribute
+- `aria-label`
+- forms:
+  - `<input>`
+    - input type text
+    - input type email
+    - input attributes:
+      - id, type, placeholder, required
+  - `<label>`
+    - label attributes:
+      - for
+  - `<select>`
+    - select attributes:
+      - id
+      - required
+    - `<option>`
+      - option attributes:
+        - value
 
 ### CSS
 
@@ -104,6 +122,13 @@
 - `transparent` keyword - The transparent keyword is used to make a color transparent. This is often used to a make transparent background color for an element. The keyword is equal to rgba(0,0,0,0)
 
 - `:not()` - The `:not()` CSS pseudo class represents elements that do not match a list of selectors. Since it prevents specific items from being selected, it is known as the negation pseudo-class.
+
+- `inherit` keyword - The inherit keyword specifies that a property should inherit its value from its parent element. It can be used for any CSS property, and on any HTML element.
+
+- `:focus` - The focus selector is used to select the element that has focus. It is allowed on elements that accept keyboard event or other user inputs.
+
+- `outline: 1px solid black` - The outline property draws an outline around elements, outside the borders, to make the element "stand out". It is a shorthand for `outline-width`, `outline-style`, and `outline-color`. If outline-color is omitted, the color applied will be the color of the text.
+  - NOTE: Outline is not a part of the box model.
 
 ## Secreenshots
 
