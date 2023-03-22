@@ -93,6 +93,8 @@
     - `<option>`
       - option attributes:
         - value
+- `tel:` and `mailto:` when using anchor tags
+- `<br>` - Line break
 
 ### CSS
 
@@ -131,6 +133,39 @@
   - NOTE: Outline is not a part of the box model.
 
 ## Secreenshots
+
+### Navigation Bar & Hero Section
+
+![navigation bar and hero section](https://user-images.githubusercontent.com/50435319/226882014-41f29d8c-824c-451a-8d82-d947cea42f3c.PNG)
+
+### Featured In Section
+
+![featured in](https://user-images.githubusercontent.com/50435319/226882039-cb4e40b1-1913-4ddc-a430-d0d48873a8bf.PNG)
+
+### How It Works Section
+
+![how it works](https://user-images.githubusercontent.com/50435319/226882052-cb09c936-f0a6-4dc5-bcbf-12d0f6c7ca6a.PNG)
+![how it works 2](https://user-images.githubusercontent.com/50435319/226882048-a4f5c62b-da7b-43e1-bfd9-d3985698163a.PNG)
+
+### Meals Section
+
+![meals](https://user-images.githubusercontent.com/50435319/226882053-5400db91-2bd0-415c-a972-d30a94044d1b.PNG)
+
+### Pricing Section
+
+![pricing](https://user-images.githubusercontent.com/50435319/226882024-78616898-c7be-421c-942b-ce421cccd774.PNG)
+
+### Features
+
+![features](https://user-images.githubusercontent.com/50435319/226882041-571ceda0-e1b5-49ba-b14f-fe86df4e862d.PNG)
+
+### Call To Action (CTA) Section
+
+![cta](https://user-images.githubusercontent.com/50435319/226882029-b6ef73df-31dc-4733-b8a2-2ce4004e9ae3.PNG)
+
+### Footer
+
+![footer](https://user-images.githubusercontent.com/50435319/226882044-d7c90757-d2f5-4266-be23-8b509cf5e4ba.PNG)
 
 ## Authors
 
