@@ -31,7 +31,7 @@
 - [Section 06](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2006): Components and Layout Patterns
 - [Section 07](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2007): Omnifood Project (Setup and Desktop Version)
 - [Section 08](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2008): Omnifood Project (Responsive Web Design)
-- [Section 09](): Omnifood Project (Effects, Optimizations, and Deployments)
+- [Section 09](https://github.com/bhoamikhona/html-css-bootcamp/tree/main/Section%2009): Omnifood Project (Effects, Optimizations, and Deployments)
 
 ## Authors
 
