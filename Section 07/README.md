@@ -2,6 +2,8 @@
 
 **About:** In this section, I'm going to take all the HTML, CSS, and Design Skills that I've been learning and apply them in order to build a huge, real world project called Omnifood. Omnifood is a fictional startup that uses AI to create and deliver custome healthy meal plans. But, right now, before they can launch their product, they need a beautiful, modern, and clean website which will make them look like a professional and trustworthy company. That is where I come in, I am pretending that I am hired by Omnifood to design and build their marketing website using HTML and CSS and build this project. Omnifood provides all the content for the website and now I've just got to design and implement it.
 
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2007/index.html)
+
 ## Lessons Learned
 
 - The 7 Steps to a Great Website:

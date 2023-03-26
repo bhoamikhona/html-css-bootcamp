@@ -2,6 +2,8 @@
 
 **About:** In this section, I continued building the Omnifood project and learned how to make it completely responsive. This means that the Omnifood website now adapts to various screen sizes.
 
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2008/index.html)
+
 ## Lessons Learned
 
 - Media Queries with `max-width`

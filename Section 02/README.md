@@ -2,6 +2,9 @@
 
 **About:** In this section, we will learn the fundamental language of web development, which is HTML. We're going to learn HTML by building a small example project where you will learn all about the most import HTML elements e.g. Headings, Paragraphs, Lists, Images, Links, and more.
 
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2002/index.html)
+[Visit Challenge](https://bhoamikhona.github.io/html-css-bootcamp/Section%2002/challenge.html)
+
 ## Lessons Learned
 
 - What is HTML?

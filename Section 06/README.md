@@ -2,6 +2,13 @@
 
 **About:** In this section, we will take a look at common website components and also common layout patterns. So, things like sliders, testimonials, pricing tables, navigations, the Z patterns, and many more. This is important because being able to choose between some well-established patterns and components will allow you to design and build your own pages in the future with way more confidence. Now, besides just learning about these common patterns, we will also build some of them in this section using code.
 
+[Visit Accordion Component](https://bhoamikhona.github.io/html-css-bootcamp/Section%2006/01-accordion.html)
+[Visit Carousel Component](https://bhoamikhona.github.io/html-css-bootcamp/Section%2006/02-carousel.html)
+[Visit Table Component](https://bhoamikhona.github.io/html-css-bootcamp/Section%2006/03-table.html)
+[Visit Pagination Component](https://bhoamikhona.github.io/html-css-bootcamp/Section%2006/04-pagination.html)
+[Visit Hero Section](https://bhoamikhona.github.io/html-css-bootcamp/Section%2006/05-hero.html)
+[Visit Email App Layout](https://bhoamikhona.github.io/html-css-bootcamp/Section%2006/06-app-layout.html)
+
 ## Lessons Learned
 
 ### Design & Layout

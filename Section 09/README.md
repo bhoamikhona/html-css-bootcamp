@@ -2,7 +2,8 @@
 
 **About:** This section is all about finishing the Omnifood project by tying up some loose ends. Adding javascript to make the mobile navigation work, compress images for better performance, adding some finishing touches, and deploying it to the internet.
 
-[Click Here to visit the Website](https://omnifood-bhoami.netlify.app/)
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2009/index.html)
+[Visit Site on Netlify](https://omnifood-bhoami.netlify.app/)
 
 ## Lessons Learned
 

@@ -2,6 +2,8 @@
 
 **About:** This section is all about learning the basics of web desing including: Typography, Colors, Images and Illustrations, Icons, Shadows, Border-radius, Whitespace, Visual Hierarchy, User Experience and then applying them in a web development project.
 
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2005/index.html)
+
 ## Lessons Learned
 
 - Web Design vs. Web Development

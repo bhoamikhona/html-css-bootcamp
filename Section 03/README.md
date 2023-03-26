@@ -2,6 +2,9 @@
 
 **About:** This section is all about learning the basics of the second language of the web, that is, CSS. CSS is all about styling the content that we write in HTML. So, in this section, we will keep building our project and add some visual styles to it. We will also learn some theoretical concepts that are behind CSS so you understand how CSS works.
 
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2003/index.html)
+[Visit Challenge](https://bhoamikhona.github.io/html-css-bootcamp/Section%2003/challenge.html)
+
 ## Lessons Learned
 
 ### CSS

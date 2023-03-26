@@ -2,6 +2,8 @@
 
 **About:** This course is divided into 9 sections and it starts right here in section 01 where you get a high level overview of web development in general, and you will also build your very first but, extremely simple web-page.
 
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2001/index.html)
+
 ## Lessons Learned
 
 - High Level Overview of Web Development

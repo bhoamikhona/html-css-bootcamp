@@ -2,6 +2,9 @@
 
 **About:** In this section, it is all about learning how to use CSS to build layouts using Floats, Flexbox, and Grids.
 
+[Visit Site](https://bhoamikhona.github.io/html-css-bootcamp/Section%2004/index.html)
+[Visit Challenge](https://bhoamikhona.github.io/html-css-bootcamp/Section%2004/challenge.html)
+
 ## Lessons Learned
 
 - What is Layout?
