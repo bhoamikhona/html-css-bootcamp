@@ -69,6 +69,10 @@
   - [Omnifood with Finishing Touches](file:///C:/Users/Steam/Documents/Web%20Development/html-css-bootcamp/Section%2009/index.html)
   - [Omnifood Deployed on Netlify with Working CTA Form](https://omnifood-bhoami.netlify.app/)
 
+## Certificate of Completion
+
+![UC-39ee47b7-a090-484f-a6f0-01f9e2528b80](https://github.com/bhoamikhona/html-css-bootcamp/assets/50435319/2b402608-9c01-43c7-9e7f-937bafe0aaa3)
+
 ## Author
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
